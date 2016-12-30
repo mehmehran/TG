@@ -1,5 +1,5 @@
 # [Radicall Team](https://telegram.me/Radicall_Team)
-### Tabchi
+## Tabchi
 
 
 # Installation
@@ -22,9 +22,8 @@ chmod +x tg
 ./tg -s bot.lua  #run
 
 ```
-### Realm configuration
 
-After you run the bot for first time, send it `!id`. Get your ID and stop the bot.
+### Set Sudo
 
 Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
 ```
